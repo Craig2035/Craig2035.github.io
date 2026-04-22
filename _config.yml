@@ -1,10 +1,10 @@
 # Welcome to Jekyll!
 
-title: "Craig Munday"
+title: "Craig Munday Profile"
 email: "craigmunday@hotmail.com"
 description: "Data analytics portfolio and projects"
 github_username: "Craig2035"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
