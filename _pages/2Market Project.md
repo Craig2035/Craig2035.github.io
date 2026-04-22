@@ -5,7 +5,7 @@ title: "2Market Project"
 clases: wide
 ---
 
-###### Consumer Behaviour & Market Trend Analysis in the Retail Industry
+###### Consumer Behaviour & Market Trend Analysis: Retail Industry
 
 **Executive summary:**
 
