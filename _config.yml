@@ -28,8 +28,8 @@ plugins:
 
 author:
   name   : "Craig Munday"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data analytics and education professional. Specialising in operational insights"
+  avatar : "/assets/images/CJM image2.jpg"
+  bio    : "Data analytics & education professional. PhD in Medicine. Specialising in operational insights."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
