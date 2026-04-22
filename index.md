@@ -10,7 +10,7 @@ feature_row:
     url: "/2market-project/"
     excerpt: "Retail market analysis and consumer behaviour insights."
 
-  - image_path: /assets/images/healthcare-thumb.pjpg
+  - image_path: /assets/images/healthcare-thumb.jpg
     title: "Healthcare Project"
     url: "/healthcare-project/"
     excerpt: "NHS utilisation analysis and operational insight modelling."
