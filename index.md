@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 
 feature_row:
-  - image_path: /assets/images/market.jpg
+  - image_path: /assets/images/market.jpeg
     title: "2Market Project"
     url: "/2market-project/"
     excerpt: "Retail market analysis and consumer behaviour insights."
@@ -15,7 +15,7 @@ feature_row:
     url: "/healthcare-project/"
     excerpt: "NHS utilisation analysis and operational insight modelling."
 
-  - image_path: /assets/images/customer.jpg
+  - image_path: /assets/images/customer.jpeg
     title: "Customer Behaviour Project"
     url: "/customer-behaviour-project/"
     excerpt: "Customer segmentation, loyalty modelling, and NLP sentiment analysis."
