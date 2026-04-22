@@ -6,9 +6,9 @@ clases: wide
 ---
 
 ###### NHS Operational Analytics: 
-####### Service Demand, Missed Appointments & Public Engagement Insights
+Service Demand, Missed Appointments & Public Engagement Insights
 
-**Executive summary:
+**Executive summary:**
 
 Using Python (Pandas, Matplotlib, Seaborn) data was ingested, cleaned and transformed before analysis and visualisation of network structure and current utilisation. Additionally, scrapped data from X was processed to determine hashtag word frequency. After identifying face to face GP appointments as those greatest in demand with location, seasonal variation and the impact of missed appointments and related social media interactions considered, I recommended the following adjustments to meet pressures in demand and predicted increases in population growth. 
 
@@ -16,23 +16,23 @@ Using Python (Pandas, Matplotlib, Seaborn) data was ingested, cleaned and transf
 2.	Develop ICB infrastructure where capacity demand is greatest
 3.	Targeted social media to improve appointment uptake
    
-**Business problem:
+**Business problem:**
 
 The NHS as a service business needs sufficient capacity to meet demand in every ICB across England. Infrastructure and capacity must meet the demand of an increasing population, and an audit of current service is required to determine needs. Estimates suggest around £216 million per year is currently lost in missed GP appointments alone. How can we understand where capacity is failing to meet demand and make adjustments to services and infrastructure to better serve the nation’s health?
 
-**Methodology:
+**Methodology:**
 
 Using Python, service data was ingested, cleaned and transformed 
 Further Python analysis and visualisation utilised to quantify service utilisation and impact of missed appointments. 
 Filter scrapped social data from X to quantify count of tagged (#) data to determine opportunities for further targeted social media engagement.
 
-**Skills:
+**Skills:**
 
 Python: Ingestion, validation, standardisation and cleaning of csv file data (Pandas)
 Visualisation (Matplotlib and Seaborn) of data following feature engineering, aggregations and lambda functions.
 Web scrapped data analysis of unstructured data 
 
-**Results and Business Recommendations:
+**Results and Business Recommendations:**
 
 Graphs of processed data gives visibility to ICB management stakeholders into appointment utilisation, service capacity and appointment non-attendance (DNA) costs. This analysis showed us most appointments are in General Consultation Routine, making more than double of appointments in any other defined National Category, with seasonal and weekly variation. Most appointments were face to face and achieved within one day of request. Service demand by region was also calculated. 
 
