@@ -42,10 +42,10 @@ Graphs of processed data gives visibility to ICB management stakeholders into ap
 Average daily utilisation indicated service capacity was exceeded in most months of the last 12 studied, with seasonal fluctuations and peaks in Winter and Spring months and DNA costs peaking in October each year where demand was at its highest.
 
 ##### Most months in the last 12 were above capacity
-{% include figure image_path="/assets/images/NHS2.png" alt="NHS2 image" caption="*October was the busiest month*" %}
+{% include figure image_path="/assets/images/NHS2.png" alt="NHS2 image" caption="*October 2021 was the busiest month*" %}
  
- ##### Missed appointment cost the NHS over £350k every October.
- {% include figure image_path="/assets/images/NHS3.png" alt="NHS3 image" caption="*Note: Smallest numbers of DNA occurred during the COVID-19 pandemic in March 2020. Overall there looks to be an upward trend in missed appointments with seasonal variation correlating with count of appointments. *" %}
+##### Missed appointment cost the NHS over £350k every October.
+ {% include figure image_path="/assets/images/NHS3.png" alt="NHS3 image" caption="*Note: Smallest numbers of DNA occurred during the COVID-19 pandemic in March 2020. Overall there looks to be an upward trend in missed appointments with seasonal variation correlating with count of appointments.*" %}
 
 ##### Social media data – What are people talking about?
 
