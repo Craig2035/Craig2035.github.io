@@ -1,5 +1,5 @@
 ---
-permalink: /Healthcare Project/
+permalink: /healthcare-project/
 layout: single
 title: "Healthcare Project"
 clases: wide
