@@ -29,7 +29,7 @@ plugins:
 author:
   name   : "Craig Munday"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data analytics professional specialising in operational insight and risk modelling."
+  bio    : "Data analytics and education professional. Specialising in operational insights"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
