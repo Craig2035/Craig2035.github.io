@@ -20,8 +20,8 @@ I am particularly motivated by roles involving operational analytics, data for g
 My goal is to deliver actionable insights, streamline workflows, and support organisations in making evidence based decisions that improve outcomes.
 
 📂 **Portfolio Projects**
-- [2Market Project](/2Market Project/)
-- [Healthcare Project](/Healthcare Project/)
-- [Customer Behaviour Project](/Customer Behaviour Project/)
+- [2Market Project](/2market-project/)
+- [Healthcare Project](/healthcare-project/)
+- [Customer Behaviour Project](/customer-behaviour-project/)
 		
 
