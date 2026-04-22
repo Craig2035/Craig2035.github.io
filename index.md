@@ -15,7 +15,7 @@ PhD qualified with international laboratory research experience, I recently upsk
 
 I bring a strong blend of analytical rigour, stakeholder focused communication, and practical problem solving, delivering accurate insights under tight deadlines. 
 
-I am particularly motivated by roles involving operational analytics, data for good, and data driven decision making — including opportunities in the Edtech, Health and Scientific fields.
+I am particularly motivated by roles involving operational analytics, data for good, and data driven decision making,  including opportunities in the Edtech, Health and Scientific fields.
 
 My goal is to deliver actionable insights, streamline workflows, and support organisations in making evidence based decisions that improve outcomes.
 
