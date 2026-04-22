@@ -3,7 +3,7 @@ permalink: /2Market Project/
 title: "2Market Project"
 ---
 
-#####Consumer Behaviour & Market Trend Analysis in the Retail Industry#####
+### Consumer Behaviour & Market Trend Analysis in the Retail Industry
 
 **Executive summary:**
 
@@ -46,12 +46,9 @@ Across all countries, half of sales came from alcohol, followed by meat and comm
 
 Platform data was confused by multiple successful conversions for some customers using a variety of social media, making it unclear which had the most influence in conversion. Twitter (now X) was most successful at generating conversions.
 
-{% include figure image_path="/assets/images/2Market1.png" alt="2Market1 image" caption="Market analysis visual" %}
+{% include figure image_path="/assets/images/2Market1.png" alt="2Market1 image" caption="*Dashboard created in Tableau outlining customer demographics*" %}
 
-*Dashboard created in Tableau outlining customer demographics*
- 
-
-*As a result, I made the following recommendations:*
+##### *As a result, I made the following recommendations:*
 
 - Diversification of country target market to the three countries (South Africa, Canada and the US) with established smaller market share, but with good upsell potential.
 - Target sales of the most popular products (alcohol, meat and commodities) which make up 85% of market sales share.
