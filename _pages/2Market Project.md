@@ -1,9 +1,11 @@
 ---
 permalink: /2Market Project/
+layout: single
 title: "2Market Project"
+clases: wide
 ---
 
-### Consumer Behaviour & Market Trend Analysis in the Retail Industry
+##### Consumer Behaviour & Market Trend Analysis in the Retail Industry
 
 **Executive summary:**
 
