@@ -1,5 +1,5 @@
 ---
-permalink: /2Market Project/
+permalink: /2market-project/
 layout: single
 title: "2Market Project"
 clases: wide
