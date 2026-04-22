@@ -34,11 +34,9 @@ Using Excel, Python and Tableau, I used proprietary customer data to create a se
    
 **Skills:**
 
-Excel: import, conditional formatting, ISBLANK(), LEN(), TRIM(), CLEAN()), TEXTSPLIT(), COUNTIF() and aggregate functions, PivotTables
-
-SQL: Joins, Case, aggregate functions, union
-
-Tableau: calculated columns, data visualisation, data modelling, dashboarding with interactive elements
+- Excel: import, conditional formatting, ISBLANK(), LEN(), TRIM(), CLEAN()), TEXTSPLIT(), COUNTIF() and aggregate functions, PivotTables
+- SQL: Joins, Case, aggregate functions, union
+- Tableau: calculated columns, data visualisation, data modelling, dashboarding with interactive elements
 
 **Results and Business Recommendations:**
 
@@ -48,15 +46,18 @@ Across all countries, half of sales came from alcohol, followed by meat and comm
 
 Platform data was confused by multiple successful conversions for some customers using a variety of social media, making it unclear which had the most influence in conversion. Twitter (now X) was most successful at generating conversions.
 
-Dashboard created in Tableau outlining customer demographics
+{% include figure image_path="/assets/images/2Market1.png" alt="2Market1 image" caption="Market analysis visual" %}
+
+*Dashboard created in Tableau outlining customer demographics*
  
 
-As a result, I made the following recommendations:
-•	Diversification of country target market to the three countries (South Africa, Canada and the US) with established smaller market share, but with good upsell potential. 
-•	Target sales of the most popular products (alcohol, meat and commodities) which make up 85% of market sales share.
-•	Focus media advertising to specific platforms and largest demographic groups which historically have provided the majority of conversions.
+*As a result, I made the following recommendations:*
+
+- Diversification of country target market to the three countries (South Africa, Canada and the US) with established smaller market share, but with good upsell potential.
+- Target sales of the most popular products (alcohol, meat and commodities) which make up 85% of market sales share.
+- Focus media advertising to specific platforms and largest demographic groups which historically have provided the majority of conversions.
 
 **Next Steps:**
-Develop data capture systems and customer surveys to improve reliability of data
-AB Test social media campaign and click rates on targeted emails
-Measure footfall in physical store locations
+- Develop data capture systems and customer surveys to improve reliability of data
+- AB Test social media campaign and click rates on targeted emails
+- Measure footfall in physical store locations
