@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "2Market Project"
+    url: /2Market Project/
+  - title: "Healthcare Project"
+    url: /Healthcare Project/
+  - title: "Customer Behaviour Project"
+    url: /Customer Behaviour Project/
+  #- title: "About"
+  #  url: /about/
