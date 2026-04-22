@@ -1,5 +1,5 @@
 ---
-permalink: /Customer Behaviour Project/
+permalink: /customer-behaviour-project/
 layout: single
 title: "Customer Behaviour Project"
 clases: wide
