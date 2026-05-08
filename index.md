@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "‘Passionate about using data for good to create opportunities that change lives’"
+title: "<span style='font-style:italic; font-size:1.2rem;'>Passionate about using data for good to create opportunities that change lives</span>"
 author_profile: true
 classes: wide
 
