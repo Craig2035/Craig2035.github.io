@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Craig Munday – Portfolio"
+title: "‘Passionate about using data for good to create opportunities that change lives’"
 author_profile: true
 classes: wide
 
