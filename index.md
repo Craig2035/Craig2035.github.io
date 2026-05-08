@@ -3,7 +3,16 @@ layout: single
 classes: wide
 author_profile: true
 
-title: "<span style='font-size:0.75rem; font-style:italic; font-weight:300; white-space:nowrap; color:#ffffff;'>
+title: "<span style='
+  font-size:0.85rem;
+  font-style:italic;
+  font-weight:300;
+  white-space:nowrap;
+  color:#ffffff;
+  position:relative;
+  top:-25px;
+  left:-10px;
+'>
 <span style='color:#e63946; opacity:0.75;'>&#12300;</span>
 Passionate about using data for good to create opportunities that change lives
 <span style='color:#e63946; opacity:0.75;'>&#12301;</span>
