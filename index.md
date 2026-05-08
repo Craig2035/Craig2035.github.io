@@ -11,7 +11,7 @@ title: "<div style='width:44%; margin-left:0; max-width:300px;'>
   color:#ffffff;
   position:relative;
   top:-20px;
-  left:-35px;
+  left:-15px;
   display:block;
   white-space:normal;
   overflow:visible;
@@ -31,7 +31,6 @@ to create opportunities that change lives
 
 </span>
 </div>"
-
 
 
 
