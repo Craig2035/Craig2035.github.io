@@ -27,6 +27,7 @@ feature_row:
     excerpt: "Customer segmentation, loyalty modelling, and NLP sentiment analysis."
 ---
 
+
 <br>
 **About Me**
 
