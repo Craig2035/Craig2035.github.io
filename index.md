@@ -8,14 +8,17 @@ title: "<div style='width:44%; margin-left:0;'>
   font-size:1.1rem;
   font-style:italic;
   font-weight:300;
-  white-space:nowrap;
   color:#ffffff;
   position:relative;
   top:-55px;
   left:-35px;
+  display:block;
 '>
 <span style='color:#e63946; opacity:0.75;'>&#12300;</span>
-Passionate about using data for good to create opportunities that change lives
+Passionate about using data for good to create<br>
+<span style='display:inline-block; margin-left:25px;'>
+opportunities that change lives
+</span>
 <span style='color:#e63946; opacity:0.75;'>&#12301;</span>
 </span>
 </div>"
