@@ -29,8 +29,8 @@ opportunities that change lives
 
 header:
   overlay_image: /assets/images/yama.png
-  overlay_filter: 0.2
-  overlay_image_height: 140px
+  overlay_filter: 0.3
+  overlay_image_height: 100px
 
 feature_row:
   - image_path: /assets/images/market.jpeg
