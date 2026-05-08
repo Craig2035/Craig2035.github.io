@@ -1,21 +1,14 @@
 ---
 layout: single
 classes: wide
-author_profile: false
+author_profile: true
 
-title: ""
-show_title: false
+title: "<span class='tagline'><span class='tagline-bracket'>&#12300;</span> Passionate about using data for good to create opportunities that change lives <span class='tagline-bracket'>&#12301;</span></span>"
 
 header:
   overlay_image: /assets/images/yama.png
   overlay_filter: 0.2
   overlay_image_height: 140px
-  overlay_content: |
-    <div style="position:absolute; top:15px; left:20px; color:#fff; font-style:italic; font-size:0.9rem; font-weight:300;">
-      <span style="color:#e63946; opacity:0.75;">&#12300;</span>
-      Passionate about using data for good to create opportunities that change lives
-      <span style="color:#e63946; opacity:0.75;">&#12301;</span>
-    </div>
 
 feature_row:
   - image_path: /assets/images/market.jpeg
