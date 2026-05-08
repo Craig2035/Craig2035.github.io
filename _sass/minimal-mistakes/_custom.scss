@@ -1,0 +1,20 @@
+/* Move the title into the top-left of the banner */
+.page__hero--overlay .page__title {
+  text-align: left;
+  margin-top: 0.75rem;   /* distance from top of banner */
+  margin-left: 1.5rem;   /* distance from left edge */
+}
+
+/* Style the tagline text */
+.page__hero--overlay .page__title .tagline {
+  font-style: italic;
+  font-size: 0.9rem;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+/* Style the red Japanese brackets */
+.page__hero--overlay .page__title .tagline-bracket {
+  color: #e63946;
+  opacity: 0.75;
+}
