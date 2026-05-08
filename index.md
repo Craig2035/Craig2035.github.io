@@ -6,19 +6,17 @@ author_profile: true
 header:
   overlay_image: /assets/images/yama.png
   overlay_filter: 0.2
-  overlay_height: 180px
+  overlay_image_height: 140px
   overlay_content: |
-    <div style="position:absolute; top:20px; left:20px; color:#fff; font-style:italic; font-size:0.9rem; font-weight:300;">
+    <div style="position:absolute; top:15px; left:20px; color:#fff; font-style:italic; font-size:0.9rem; font-weight:300;">
       <span style="color:#e63946; opacity:0.75;">&#12300;</span>
       Passionate about using data for good to create opportunities that change lives
       <span style="color:#e63946; opacity:0.75;">&#12301;</span>
     </div>
 
 title: ""
+---
 
-margin: 20px 10px;
-author_profile: true
-classes: wide
 
 feature_row:
   - image_path: /assets/images/market.jpeg
