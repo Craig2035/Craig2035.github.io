@@ -3,25 +3,26 @@ layout: single
 classes: wide
 author_profile: true
 
-title: "<div style='width:44%; margin-left:0;'>
+title: "<div style='width:40%; margin-left:0;'>
 <span style='
   font-size:1.1rem;
   font-style:italic;
   font-weight:300;
   color:#ffffff;
   position:relative;
-  top:-55px;
+  top:-20px; 
   left:-35px;
   display:block;
 '>
 <span style='color:#e63946; opacity:0.75;'>&#12300;</span>
 Passionate about using data for good to create<br>
-<span style='display:inline-block; margin-left:25px;'>
+<span style='display:inline-block; margin-left:60px;'>
 opportunities that change lives
 </span>
 <span style='color:#e63946; opacity:0.75;'>&#12301;</span>
 </span>
 </div>"
+
 
 
 
