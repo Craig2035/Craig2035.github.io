@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<span style='font-style:italic; font-size:1.2rem;'>Passionate about using data for good to create opportunities that change lives</span>"
+title: "<span style='font-style:italic; font-size:1.0rem; font-weight:300;'>Passionate about using data for good to create opportunities that change lives</span>"
 author_profile: true
 classes: wide
 
