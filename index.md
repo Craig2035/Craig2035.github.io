@@ -1,7 +1,12 @@
 ---
 layout: single
+---
+layout: single
+classes: wide
+author_profile: true
+
 header:
-  overlay_image: /assets/images/yama.png
+  overlay_image: /assets/images/banner-thin.jpg
   overlay_filter: 0.2
   overlay_height: 180px
   overlay_content: |
@@ -10,10 +15,9 @@ header:
       Passionate about using data for good to create opportunities that change lives
       <span style="color:#e63946; opacity:0.75;">&#12301;</span>
     </div>
-Passionate about using data for good to create opportunities that change lives
-<span style='color:#e63946; opacity:0.75;'>&#12301;</span>
-</span>
-</div>"
+
+title: ""
+
 margin: 20px 10px;
 author_profile: true
 classes: wide
