@@ -3,7 +3,8 @@ layout: single
 classes: wide
 author_profile: true
 
-title: ""   # This MUST be here and MUST be empty
+title: ""
+show_title: false
 
 header:
   overlay_image: /assets/images/yama.png
@@ -15,8 +16,6 @@ header:
       Passionate about using data for good to create opportunities that change lives
       <span style="color:#e63946; opacity:0.75;">&#12301;</span>
     </div>
-
-
 
 feature_row:
   - image_path: /assets/images/market.jpeg
@@ -34,6 +33,7 @@ feature_row:
     url: "/customer-behaviour-project/"
     excerpt: "Customer segmentation, loyalty modelling, and NLP sentiment analysis."
 ---
+
 <br>
 **About Me**
 
