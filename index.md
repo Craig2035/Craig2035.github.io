@@ -15,7 +15,6 @@ header:
     </div>
 
 title: ""
----
 
 
 feature_row:
