@@ -3,7 +3,12 @@ layout: single
 classes: wide
 author_profile: true
 
-title: "<span class='tagline'><span class='tagline-bracket'>&#12300;</span> Passionate about using data for good to create opportunities that change lives <span class='tagline-bracket'>&#12301;</span></span>"
+title: "<span style='font-size:0.75rem; font-style:italic; font-weight:300; white-space:nowrap; color:#ffffff;'>
+<span style='color:#e63946; opacity:0.75;'>&#12300;</span>
+Passionate about using data for good to create opportunities that change lives
+<span style='color:#e63946; opacity:0.75;'>&#12301;</span>
+</span>"
+
 
 header:
   overlay_image: /assets/images/yama.png
