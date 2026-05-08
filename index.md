@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "<span style='font-style:italic; font-size:1.0rem; font-weight:300;'>'Passionate about using data for good to create opportunities that change lives'</span>"
+title: "<div style='margin: 20px 0;'><span style='font-style:italic; font-size:0.9rem; font-weight:300;'>Passionate about using data for good to create opportunities that change lives</span></div>"
+margin: 20px 10px;
 author_profile: true
 classes: wide
 
@@ -20,7 +21,7 @@ feature_row:
     url: "/customer-behaviour-project/"
     excerpt: "Customer segmentation, loyalty modelling, and NLP sentiment analysis."
 ---
-
+<br><br>
 **About Me**
 
 I am an analytics professional with 20 years’ experience across teaching, quantitative analysis, and data interpretation. 
