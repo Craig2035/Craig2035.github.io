@@ -37,6 +37,8 @@ I bring a strong blend of analytical rigour, stakeholder focused communication, 
 
 I am particularly motivated by roles involving operational analytics, data for good, and data driven decision making, including opportunities in the Edtech, Health and Scientific fields.
 
+Beyond the desktop, I am a commited martial artist and 5th Dan black belt instructor, bringing regular lessons to my local community, empowering others to reach thier personal goals. 
+
 My goal is to deliver actionable insights, streamline workflows, and support organisations in making evidence based decisions that improve outcomes.
 
 ---
