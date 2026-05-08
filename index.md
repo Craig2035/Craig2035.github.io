@@ -3,22 +3,23 @@ layout: single
 classes: wide
 author_profile: true
 
-title: "<div style='width:66%; margin:0 auto;'>
+title: "<div style='width:44%; margin-left:0;'>
 <span style='
-  font-size:0.85rem;
+  font-size:1.1rem;
   font-style:italic;
   font-weight:300;
   white-space:nowrap;
   color:#ffffff;
   position:relative;
-  top:-45px;
-  left:-10px;
+  top:-55px;
+  left:-35px;
 '>
 <span style='color:#e63946; opacity:0.75;'>&#12300;</span>
 Passionate about using data for good to create opportunities that change lives
 <span style='color:#e63946; opacity:0.75;'>&#12301;</span>
 </span>
 </div>"
+
 
 
 header:
