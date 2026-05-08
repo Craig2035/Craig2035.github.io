@@ -3,6 +3,8 @@ layout: single
 classes: wide
 author_profile: true
 
+title: ""   # This MUST be here and MUST be empty
+
 header:
   overlay_image: /assets/images/yama.png
   overlay_filter: 0.2
@@ -14,7 +16,6 @@ header:
       <span style="color:#e63946; opacity:0.75;">&#12301;</span>
     </div>
 
-title: ""
 
 
 feature_row:
