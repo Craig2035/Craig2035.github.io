@@ -16,6 +16,10 @@ paginate: 5
 paginate_path: /page:num/
 timezone:
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 include:
   - _pages
 
