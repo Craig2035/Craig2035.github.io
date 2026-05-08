@@ -1,6 +1,10 @@
 ---
 layout: single
-title: "<div style='margin: 20px 0; padding: 0 10px; text-align:center;'><span style='font-style:italic; font-size:0.9rem; font-weight:300;'>&ldquo;Passionate about using data for good to create opportunities that change lives&rdquo;</span></div>"
+title: "<div style='margin: 20px 0; padding: 0 10px; text-align:center;'>
+<span style='font-style:italic; font-size:0.9rem; font-weight:300; color:#ffcd00; opacity:0.85;'>
+&ldquo;Passionate about using data for good to create opportunities that change lives&rdquo;
+</span>
+</div>"
 margin: 20px 10px;
 author_profile: true
 classes: wide
