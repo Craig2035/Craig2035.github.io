@@ -30,7 +30,7 @@ to create opportunities that change lives
 header:
   overlay_image: /assets/images/yama.png
   overlay_filter: 0.3
-  overlay_image_height: 10px
+  overlay_image_height: 50px
 
 feature_row:
   - image_path: /assets/images/market.jpeg
