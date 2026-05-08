@@ -3,10 +3,13 @@ layout: single
 header:
   overlay_image: /assets/images/yama.png
   overlay_filter: 0.2
-  caption: ""
-title: "<div style='margin: 20px 0; padding: 0 10px; text-align:center;'>
-<span style='font-style:italic; font-size:0.9rem; font-weight:300;'>
-<span style='color:#e63946; opacity:0.75;'>&#12300;</span>
+  overlay_height: 180px
+  overlay_content: |
+    <div style="position:absolute; top:20px; left:20px; color:#fff; font-style:italic; font-size:0.9rem; font-weight:300;">
+      <span style="color:#e63946; opacity:0.75;">&#12300;</span>
+      Passionate about using data for good to create opportunities that change lives
+      <span style="color:#e63946; opacity:0.75;">&#12301;</span>
+    </div>
 Passionate about using data for good to create opportunities that change lives
 <span style='color:#e63946; opacity:0.75;'>&#12301;</span>
 </span>
