@@ -21,7 +21,7 @@ feature_row:
     url: "/customer-behaviour-project/"
     excerpt: "Customer segmentation, loyalty modelling, and NLP sentiment analysis."
 ---
-<br><br>
+<br>
 **About Me**
 
 I am an analytics professional with 20 years’ experience across teaching, quantitative analysis, and data interpretation. 
