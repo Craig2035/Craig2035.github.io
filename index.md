@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 
 header:
-  overlay_image: /assets/images/banner-thin.jpg
+  overlay_image: /assets/images/yama.png
   overlay_filter: 0.2
   overlay_height: 180px
   overlay_content: |
