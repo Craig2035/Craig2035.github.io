@@ -1,19 +1,19 @@
-/* Position the title */
+/* Make the title small and top-left */
 .page__hero--overlay .page__title {
+  font-size: 0.75rem !important;
+  line-height: 1.2;
   text-align: left;
   margin-top: 0.75rem;
   margin-left: 1.5rem;
-  font-size: 0.75rem !important;
-  line-height: 1.2;
 }
 
 /* Style the tagline text */
 .page__hero--overlay .page__title .tagline {
   font-style: italic;
-  font-size: 0.75rem;
+  font-size: 0.75rem !important;
   font-weight: 300;
   white-space: nowrap;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 /* Style the red Japanese brackets */
@@ -21,4 +21,5 @@
   color: #e63946 !important;
   opacity: 0.75;
 }
+
 
