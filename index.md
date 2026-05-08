@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 
-title: "<div style='width:44%; margin-left:0;'>
+title: "<div style='width:44%; margin-left:0; max-width:300px;'>
 <span style='
   font-size:1.1rem;
   font-style:italic;
@@ -13,15 +13,25 @@ title: "<div style='width:44%; margin-left:0;'>
   top:-20px;
   left:-35px;
   display:block;
+  white-space:normal;
+  overflow:visible;
 '>
+
+<span style='white-space:nowrap;'>
 <span style='color:#e63946; opacity:0.75;'>&#12300;</span>
-Passionate about using data for good<br>
-<span style='display:inline-block; margin-left:60px;'>
-to create opportunities that change lives
+Passionate about using data for good
 </span>
+
+<br>
+
+<span style='white-space:nowrap; display:inline-block; margin-left:60px;'>
+to create opportunities that change lives
 <span style='color:#e63946; opacity:0.75;'>&#12301;</span>
 </span>
+
+</span>
 </div>"
+
 
 
 
