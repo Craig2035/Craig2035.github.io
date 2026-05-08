@@ -30,7 +30,7 @@ plugins:
 author:
   name   : "Craig Munday"
   avatar : "/assets/images/CJMhead.JPG"
-  bio: "<span>Data analytics & education professional.</span><br><span style='display:block; margin-top:6px;'>PhD in Medicine.</span><br><span style='display:block; margin-top:6px;'>Data Storytelling for operational insights.</span>"
+  bio: "<span>Data analytics & education professional.</span><span style='display:block; margin-top:6px;'>PhD in Medicine.</span><span style='display:block; margin-top:6px;'>Data Storytelling for operational insights.</span>"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
