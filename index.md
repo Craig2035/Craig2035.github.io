@@ -15,9 +15,9 @@ title: "<div style='width:44%; margin-left:0;'>
   display:block;
 '>
 <span style='color:#e63946; opacity:0.75;'>&#12300;</span>
-Passionate about using data for good to create<br>
+Passionate about using data for good<br>
 <span style='display:inline-block; margin-left:60px;'>
-opportunities that change lives
+to create opportunities that change lives
 </span>
 <span style='color:#e63946; opacity:0.75;'>&#12301;</span>
 </span>
@@ -30,7 +30,7 @@ opportunities that change lives
 header:
   overlay_image: /assets/images/yama.png
   overlay_filter: 0.3
-  overlay_image_height: 100px
+  overlay_image_height: 80px
 
 feature_row:
   - image_path: /assets/images/market.jpeg
