@@ -2,25 +2,40 @@
 permalink: /data-in-education/
 layout: single
 title: "Data in Education"
-clases: wide
+classes: wide
 ---
-######  Data in Education
 
-A showcase of how data can transform educational decision‑making, pastoral insight, and operational planning.
+###### Data in Education
+
+**Executive summary:**
+
+A showcase of how data can transform educational decision‑making, pastoral insight, and operational planning.  
+This project demonstrates how GCSE results, student demographics, attendance, and progress data can be combined into a clear, actionable reporting model for school leaders.
 
 ---
+
 ### High School GCSE Tracking and Results Dashboard
-  
+
 **Summary of Project**
-Annual tracking and reviewing of GCSE results in school in the UK has often utilised spreadsheets for review. Analysis tools for results are often exam board specific. Utilising a series of dashboards in Power BI, I created a model to present a whole school executive overview, subject performance with optional filtering by key indicators of gender, SEND, EAL and Pupil Premium, subject comparison and individual student performance for tailored reporting. 
 
-**Note:** 
-All student names and data were AI generated from a request for a normally distributed cohort representative of a non-selective school.
+Annual tracking and reviewing of GCSE results in UK schools has often relied on spreadsheets or exam‑board‑specific tools.  
+Using Power BI, I created a multi‑page dashboard model that provides:
 
-**Overview**
-**Dashboard 1: Overview**
+- Whole‑school executive overview  
+- Subject‑level performance with filtering by gender, SEND, EAL, and Pupil Premium  
+- Subject comparison and ranking  
+- Individual student performance for tailored reporting  
+
+**Note:**  
+All student names and data were AI‑generated to represent a normally distributed cohort from a non‑selective school.
+
+---
+
+### Dashboard 1: Overview
+
 ![Overview Dashboard](/assets/images/GCSE_overview.png)
 
-A high level overview of key data and demographics. 
-Impact scores of results are presented in a series of KPI cards at the top of the page. The main column chart presents distribution of whole school results, while progress through mock series is tracked in the line chart bottom left. The donut charts mid right give year group demographics scatter chart bottom right, while the scatter chart bottom right shows the impact on average GCSE score with attendance, which decreases below the government target of 95% attendance. 
-
+A high‑level overview of key data and demographics.  
+Impact scores are presented in KPI cards at the top of the page.  
+The main column chart shows whole‑school grade distribution, while progress through the mock series is tracked in the bottom‑left line chart.  
+Donut charts provide demographic breakdowns, and the bottom‑right scatter chart shows the relationship between attendance and average GCSE score — with performance declining below the government’s 95% attendance benchmark.
