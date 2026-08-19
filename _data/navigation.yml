@@ -5,5 +5,7 @@ main:
     url: /healthcare-project/
   - title: "Customer Behaviour Project"
     url: /customer-behaviour-project/
+  - title: "Data in Education"
+    url: /data-in-education/
   #- title: "About"
   #  url: /about/
