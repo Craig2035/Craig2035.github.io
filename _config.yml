@@ -74,11 +74,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      pagination: false
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
 
 category_archive:
   type: liquid
