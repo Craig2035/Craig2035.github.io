@@ -54,7 +54,7 @@ Males averaged a grade higher with 32% grade 9 for Biology, while females had 10
 ![Subject Performance Dashboard Female](/assets/images/student_performance_female.png)
 
 ### Student performance
-![Student Performance Dashboard 7](/assets/images/GCSEstudent_performance_7.png)
+![Student Performance Dashboard 7](/assets/images/GCSE_student_performance_7.png)
 
 The student performance page allows analysis of individuals, tracking average progress and summarising exam performance and value added. It provides a quick way to identify top performing subjects for individuals and those whose performance has shown greatest improvement and value added. 
 
