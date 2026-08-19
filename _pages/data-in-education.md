@@ -37,7 +37,7 @@ All student names and data were AI‑generated to represent a normally distribut
 
 Impact scores of results are presented in a series of KPI cards at the top of the page. The main column chart presents distribution of whole school results, while progress through mock series is tracked in the line chart bottom left. The donut charts mid right give year group demographics scatter chart bottom right, while the scatter chart bottom right shows the impact on average GCSE score with attendance, which decreases below the government target of 95% attendance. 
 
-### Overview
+### Subject Performance 
 
 ![Subject Performance Dashboard](/assets/images/GCSE_subject_performance.png)
 
