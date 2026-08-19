@@ -33,7 +33,7 @@ Using Power BI, I created a multi‑page dashboard model that provides:
 
 ### Overview
 
-![Overview Dashboard](/assets/images/GCSE_overview.png)
+![Overview Dashboard](/assets/images/GCSE_overview1.png)
 
 Impact scores of results are presented in a series of KPI cards at the top of the page. The main column chart presents distribution of whole school results, while progress through mock series is tracked in the line chart bottom left. The donut charts mid right give year group demographics scatter chart bottom right, while the scatter chart bottom right shows the impact on average GCSE score with attendance, which decreases below the government target of 95% attendance. 
 
