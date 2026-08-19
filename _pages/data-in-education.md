@@ -26,8 +26,7 @@ Using Power BI, I created a multi‑page dashboard model that provides:
 - Subject comparison and ranking  
 - Individual student performance for tailored reporting  
 
-**Note:**  
-All student names and data were AI‑generated to represent a normally distributed cohort from a non‑selective school.
+**Note:**  All student names and data were AI‑generated to represent a normally distributed cohort from a non‑selective school.
 
 ---
 
@@ -48,27 +47,29 @@ The optional step 2 filters buttons allow identification of high or low performi
 ### Filtered by gender: 
 Males averaged a grade higher with 32% grade 9 for Biology, while females had 100% pass rate in the subject. 
 
-## Males
+##### Males
 ![Subject Performance Dashboard Male](/assets/images/student_performance_male.png)
 
-## Females
+##### Females
 ![Subject Performance Dashboard Female](/assets/images/student_performance_female.png)
 
 ### Student performance
-![Student Performance Dashboard 7](/assets/images/student_performance_7.png)
+![Student Performance Dashboard 7](/assets/images/GCSEstudent_performance_7.png)
 
 The student performance page allows analysis of individuals, tracking average progress and summarising exam performance and value added. It provides a quick way to identify top performing subjects for individuals and those whose performance has shown greatest improvement and value added. 
 
 ### Student performance
-![Student Performance Dashboard 34](/assets/images/student_performance_34.png)
+![Student Performance Dashboard 34](/assets/images/GCSE_student_performance_34.png)
 
 ### Subject Comparison
-![Subject Comparison Dashboard](/assets/images/subject_comparison.png)
+![Subject Comparison Dashboard](/assets/images/GCSE_subject_comparison.png)
 
 A breakdown of performance by subject for the whole school, including value added and average grade scores for GCSE by subject. The table bottom right provides a tally of grades for each subject. 
 
 ### Further developments
 •	Add additional data for previous cohorts to allow comparison and tracking year on year.
+
 •	Add national average data for comparison
+
 •	Utilisation of dashboard for lower years to allow for ‘real time’ tracking of performance and track improvements from mock performance and attendance data. 
 
