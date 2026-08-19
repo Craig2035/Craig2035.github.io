@@ -56,6 +56,13 @@ feature_row:
     title: "Customer Behaviour Project"
     url: "/customer-behaviour-project/"
     excerpt: "Customer segmentation, loyalty modelling, and NLP sentiment analysis."
+
+education_row:
+  - image_path: /assets/images/education.png
+    title: "Data in Education"
+    url: "/data-in-education/"
+    excerpt: "Education data visualisation to enhance reporting, tracking and school operations."
+
 ---
 
 
@@ -78,6 +85,12 @@ My goal is to deliver actionable insights, streamline workflows, and support org
 ## 📂 Portfolio Projects
 
 {% include feature_row %}
+
+---
+
+## 📘 Data in Education
+
+{% include feature_row id="education_row" %}
 
 		
 
