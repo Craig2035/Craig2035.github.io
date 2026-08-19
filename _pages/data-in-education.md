@@ -3,6 +3,7 @@ permalink: /data-in-education/
 layout: single
 title: "Data in Education"
 clases: wide
+show_pagination: false
 ---
 
 ###### Data in Education
