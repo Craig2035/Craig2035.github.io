@@ -44,3 +44,31 @@ Impact scores of results are presented in a series of KPI cards at the top of th
 Tracking each year is essential for planning and future progress by heads of department and whole school academic leads. Subject performance can be analysed at a top level or by demographic grouping. The subject performance KPI card gives a quick overview of results with the column chart and line chart showing breakdown by grade and tracking of progress respectively. 
 
 The optional step 2 filters buttons allow identification of high or low performing demographic subgroups within the subject.
+
+### Filtered by gender: 
+Males averaged a grade higher with 32% grade 9 for Biology, while females had 100% pass rate in the subject. 
+
+## Males
+![Subject Performance Dashboard Male](/assets/images/student_performance_male.png)
+
+## Females
+![Subject Performance Dashboard Female](/assets/images/student_performance_female.png)
+
+### Student performance
+![Student Performance Dashboard 7](/assets/images/student_performance_7.png)
+
+The student performance page allows analysis of individuals, tracking average progress and summarising exam performance and value added. It provides a quick way to identify top performing subjects for individuals and those whose performance has shown greatest improvement and value added. 
+
+### Student performance
+![Student Performance Dashboard 34](/assets/images/student_performance_34.png)
+
+### Subject Comparison
+![Subject Comparison Dashboard](/assets/images/subject_comparison.png)
+
+A breakdown of performance by subject for the whole school, including value added and average grade scores for GCSE by subject. The table bottom right provides a tally of grades for each subject. 
+
+### Further developments
+•	Add additional data for previous cohorts to allow comparison and tracking year on year.
+•	Add national average data for comparison
+•	Utilisation of dashboard for lower years to allow for ‘real time’ tracking of performance and track improvements from mock performance and attendance data. 
+
