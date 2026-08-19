@@ -41,7 +41,7 @@ Impact scores of results are presented in a series of KPI cards at the top of th
 
 ![Subject Performance Dashboard](/assets/images/GCSE_subject_performance.png)
 
-Tracking each year is essential for planning and future progress by heads of department and whole school academic leads. Subject performance can be analysed at a top level or by demographic grouping. The subject performance KPI card gives a quick overview of results with the column chart and line chart showing breakdown by grade and tracking of progress respectively. 
+Tracking each year is essential for planning and future progress by heads of department and whole school academic leads. Subject performance can be analysed at a top level or by demographic grouping. The subject performance KPI card gives a quick overview of results with the column chart and line chart showing breakdown by grade and tracking of progress respectively.
 
 The optional step 2 filters buttons allow identification of high or low performing demographic subgroups within the subject.
 
