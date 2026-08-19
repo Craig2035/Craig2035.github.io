@@ -85,7 +85,6 @@ My goal is to deliver actionable insights, streamline workflows, and support org
 
 {% include feature_row %}
 
-## 📘 Data in Education
 
 
 
